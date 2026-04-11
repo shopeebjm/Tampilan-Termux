@@ -12,7 +12,7 @@
 [![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
 
 # tampilan-termux
-Ubah tampilan termux versi 2
+Ubah Tampilan Termux Dengan Mudah Tanpa Perlu Coding
 
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
